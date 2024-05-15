@@ -1,0 +1,157 @@
+{
+    "data": {
+        "groupByUrlname": {
+            "id": "30918792",
+            "events": {
+                "totalCount": 151,
+                "pageInfo": {
+                    "endCursor": "MjU4MTE4NDk0OjE1NDc3NDQ0MDAwMDA=",
+                    "hasNextPage": false,
+                    "__typename": "PageInfo"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "id": "258118494",
+                            "title": "welcome meetup",
+                            "eventUrl": "https://www.meetup.com/sydney-ai-tech-talks/events/258118494/",
+                            "description": "first meetup to get to know each other, welcome suggestions to grow local AI tech community.",
+                            "group": {
+                                "id": "30918792",
+                                "name": "Sydney AI/ML/Data Developers Group",
+                                "__typename": "Group"
+                            },
+                            "creatorMember": {
+                                "id": "262653985",
+                                "__typename": "Member"
+                            },
+                            "eventHosts": [
+                                {
+                                    "memberId": "262653985",
+                                    "__typename": "EventHost"
+                                }
+                            ],
+                            "feeSettings": null,
+                            "venue": null,
+                            "dateTime": "2019-01-17T12:00:00+11:00",
+                            "createdTime": "2019-01-16T00:27:15-05:00",
+                            "endTime": "2019-01-17T13:00:00+11:00",
+                            "going": {
+                                "totalCount": 5,
+                                "__typename": "GoingRsvpConnection"
+                            },
+                            "isAttending": false,
+                            "isOnline": false,
+                            "eventType": "PHYSICAL",
+                            "status": "PAST",
+                            "series": null,
+                            "featuredEventPhoto": null,
+                            "rsvps": {
+                                "edges": [
+                                    {
+                                        "node": {
+                                            "id": "1766809166",
+                                            "member": {
+                                                "id": "262653985",
+                                                "name": "kevinl",
+                                                "memberPhoto": {
+                                                    "id": "280888352",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/6/e/c/0/highres_280888352.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1766813492",
+                                            "member": {
+                                                "id": "184304895",
+                                                "name": "Gerd Wittchen",
+                                                "memberPhoto": {
+                                                    "id": "244281185",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/5/2/c/1/highres_244281185.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1766814535",
+                                            "member": {
+                                                "id": "269416614",
+                                                "name": "Devi Prasad Ghimire",
+                                                "memberPhoto": {
+                                                    "id": "287210921",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/c/6/e/9/highres_287210921.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1766957877",
+                                            "member": {
+                                                "id": "253760724",
+                                                "name": "James Jordan",
+                                                "memberPhoto": {
+                                                    "id": "276924049",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/5/d/f/1/highres_276924049.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1766963736",
+                                            "member": {
+                                                "id": "200702745",
+                                                "name": "Swarup Rajbhandari",
+                                                "memberPhoto": {
+                                                    "id": "254359289",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/4/b/5/9/highres_254359289.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    }
+                                ],
+                                "__typename": "RsvpConnection"
+                            },
+                            "actions": [],
+                            "rsvpSettings": {
+                                "rsvpsClosed": false,
+                                "__typename": "RsvpOpenSettings"
+                            },
+                            "isNetworkEvent": false,
+                            "networkEvent": null,
+                            "socialLabels": [],
+                            "__typename": "Event"
+                        },
+                        "__typename": "EventEdge"
+                    }
+                ],
+                "__typename": "GroupEventConnection"
+            },
+            "__typename": "Group"
+        }
+    }
+}

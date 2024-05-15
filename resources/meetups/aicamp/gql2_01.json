@@ -1,0 +1,1499 @@
+{
+    "data": {
+        "groupByUrlname": {
+            "id": "30918792",
+            "events": {
+                "totalCount": 151,
+                "pageInfo": {
+                    "endCursor": "MjkwMDY5NjI5OjE2NzEyMTU0MDAwMDA=",
+                    "hasNextPage": true,
+                    "__typename": "PageInfo"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "id": "296597027",
+                            "title": "In-person AI Meetup - GenAI, LLMs and Vector Search",
+                            "eventUrl": "https://www.meetup.com/sydney-ai-tech-talks/events/296597027/",
+                            "description": "Pre-registration is required, please complete RSVP here:\n[https://www.aicamp.ai/event/eventdetails/W2023101701](https://www.aicamp.ai/event/eventdetails/W2023101701)\n\nWelcome to our monthly in-person AI meetup in Sydney. Join us for deep dive tech talks on AI/ML, food/drink, networking with speakers and fellow developers.\n\n**Agenda:**\n\n* 5:30pm\\~6:00pm: Checkin, Food/drink and networking\n* 6:00pm\\~8:00pm: Tech talks\n* 8:00pm: Q&A and Open discussion\n\n**Tech Talk 1: AI-driven language processing with Vector Search**\n**Speaker:** Erick Ramirez @DataStax\n**Abstract:** ChatGPT opened the world to the significant advancement in natural language processing. Asking it questions as if talking to another human, it is able to deduce semantics and context to return relevant information. What if there was a way to retrieve data from your database not with SQL or SQL-like queries but with plain English questions? With a vector database like Cassandra, you can!\nWith vector search, data objects are transformed into embeddings – vector representations in a high-dimensional space. The embeddings capture the semantic essence of data, enabling more nuanced searches. A vector search retrieves objects which are semantically-related, with an understanding of the context and meaning. Learn how to perform vector searches on your data out-of-the-box with Cassandra.\n\nStay tuned as we are updating speakers and schedules. If you have a keen interest in speaking to our community, we invite you to submit topics for consideration: [Submit Topics](https://forms.gle/JkMt91CZRtoJBSFUA)\n\n**Partners/Sponsors:**\nWe are actively seeking sponsors to support our community. There are various ways to contribute, whether it is by offering venue spaces, providing refreshments, or becoming a cash sponsor. In return, sponsors will have the chance to speak at our meetups, receive prominent recognition as sponsors, and gain exposure through post-event emails sent to our extensive membership base of 3,000+ local or 300K+ developers worldwide.\n\n**Community on Slack**\n\\- Event chat: chat and connect with speakers and attendees\n\\- Sharing blogs\\, events\\, job openings\\, projects collaborations\n[Join Slack](https://join.slack.com/t/aicampglobal/shared_invite/zt-23q2bvbf6-2Z5IQzDXJ4_TaWWGzFz2pQ) (search and join the #sydney channel)",
+                            "group": {
+                                "id": "30918792",
+                                "name": "Sydney AI/ML/Data Developers Group",
+                                "__typename": "Group"
+                            },
+                            "creatorMember": {
+                                "id": "262653985",
+                                "__typename": "Member"
+                            },
+                            "eventHosts": [
+                                {
+                                    "memberId": "262653985",
+                                    "__typename": "EventHost"
+                                }
+                            ],
+                            "feeSettings": null,
+                            "venue": {
+                                "id": "27528755",
+                                "name": "Microsoft Reactor Sydney",
+                                "address": "11 York St",
+                                "city": "Sydney",
+                                "state": "NS",
+                                "country": "au",
+                                "__typename": "Venue"
+                            },
+                            "dateTime": "2023-10-17T17:30:00+11:00",
+                            "createdTime": "2023-10-07T01:28:33-04:00",
+                            "endTime": "2023-10-17T20:30:00+11:00",
+                            "going": {
+                                "totalCount": 49,
+                                "__typename": "GoingRsvpConnection"
+                            },
+                            "isAttending": false,
+                            "isOnline": false,
+                            "eventType": "PHYSICAL",
+                            "status": "PAST",
+                            "series": null,
+                            "featuredEventPhoto": {
+                                "id": "516382171",
+                                "source": "https://secure.meetupstatic.com/photos/event/5/6/9/b/highres_516382171.jpeg",
+                                "__typename": "PhotoInfo"
+                            },
+                            "rsvps": {
+                                "edges": [
+                                    {
+                                        "node": {
+                                            "id": "1973271298",
+                                            "member": {
+                                                "id": "262653985",
+                                                "name": "kevinl",
+                                                "memberPhoto": {
+                                                    "id": "280888352",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/6/e/c/0/highres_280888352.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1973271967",
+                                            "member": {
+                                                "id": "264549791",
+                                                "name": "Saksham Sudhanshu",
+                                                "memberPhoto": {
+                                                    "id": "317003419",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/5/b/7/b/highres_317003419.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1973272255",
+                                            "member": {
+                                                "id": "91484922",
+                                                "name": "Josh Al-Din",
+                                                "memberPhoto": {
+                                                    "id": "288590814",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/c/6/7/e/highres_288590814.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1973273300",
+                                            "member": {
+                                                "id": "201248120",
+                                                "name": "Sina",
+                                                "memberPhoto": {
+                                                    "id": "267075441",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/3/c/5/1/highres_267075441.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1973275222",
+                                            "member": {
+                                                "id": "159658732",
+                                                "name": "Alexander Bibin",
+                                                "memberPhoto": {
+                                                    "id": "254059899",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/4/d/b/b/highres_254059899.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    }
+                                ],
+                                "__typename": "RsvpConnection"
+                            },
+                            "actions": [],
+                            "rsvpSettings": {
+                                "rsvpsClosed": false,
+                                "__typename": "RsvpOpenSettings"
+                            },
+                            "isNetworkEvent": false,
+                            "networkEvent": null,
+                            "socialLabels": [],
+                            "__typename": "Event"
+                        },
+                        "__typename": "EventEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "295366167",
+                            "title": "Virtual Summit: LLMs and the Generative AI Revolution",
+                            "eventUrl": "https://www.meetup.com/sydney-ai-tech-talks/events/295366167/",
+                            "description": "Register here to receive joining link: [https://www.aicamp.ai/event/eventdetails/W2023091408](https://www.aicamp.ai/event/eventdetails/W2023091408)\n(The event is hosted at north america time zone, can't join the live sessions? you can still register to receive recordings).\n\n**Description:**\nCome join us for a dive deep into the revolutionary new world of LLMs, agents, auto-healing code, image generators, personalized tutors and more. Explore the new stack of vector databases, Langchain, OpenAI, and open source models like Falcon. Learn how to take advantage of these cutting edge new tools and techniques. Start putting next gen AI to work for you today.\n\n**Featured Speakers:**\n\n* Morgan McGuire, Growth Director @ Weights & Biases\n* Hemant Jain, Software Engineer @ Cohere\n* Jerry Liu, CEO & Co-Founder @ LlamaIndex\n* Waleed Kadous, Chief Scientist @ Anyscale\n* Shreya Rajpal, Founder @ Guardrails AI\n* Amber Roberts, ML Growth Lead @ Arize\n* Atindriyo Sanyal, CTO and co-founder @ Galileo\n* Yaron Haviv, Co-founder and CTO @ Iguazio\n* 20+ more\n\n**What you will learn:**\n\n* **Agents:** Curious about agents with frameworks like Langchain and vector DBs? Want to know how to get work done and build apps that can do things we’ve never been able to do before now?\n* **LLMs:** Learn about fine tuning, prompt tuning, guardrails, and middleware, to make your LLMs more consistent and reliable.\n* **Image Generators:** Image generators like Midjourney and Stable Diffusion have gotten stronger and stronger in record time. Learn to leverage them for max effect now.\n* **Fine Tuning and Private Data:** Learn how to make your models even strong by tuning them up on your own treasure trove of data.\n* **Security:** Find out about the latest attack vectors and how LLMs and generative AI present a whole new range of security challenges for teams and how you can mitigate those problems.\n\n**RSVP and Agenda:** [https://www.aicamp.ai/event/eventdetails/W2023091408](https://www.aicamp.ai/event/eventdetails/W2023091408)\n\n**Community on Slack**\n\\- Event chat: chat and connect with speakers and attendees\n\\- Sharing blogs\\, events\\, job openings\\, projects collaborations\n[Join Slack](https://join.slack.com/t/aicampglobal/shared_invite/zt-1zv0s40xu-CbN_bGJfbeQfheruT0DGqw) (search and join the #virtualevents channel)",
+                            "group": {
+                                "id": "30918792",
+                                "name": "Sydney AI/ML/Data Developers Group",
+                                "__typename": "Group"
+                            },
+                            "creatorMember": {
+                                "id": "262653985",
+                                "__typename": "Member"
+                            },
+                            "eventHosts": [
+                                {
+                                    "memberId": "262653985",
+                                    "__typename": "EventHost"
+                                }
+                            ],
+                            "feeSettings": null,
+                            "venue": {
+                                "id": "26906060",
+                                "name": "Online event",
+                                "address": "",
+                                "city": "",
+                                "state": "",
+                                "country": "",
+                                "__typename": "Venue"
+                            },
+                            "dateTime": "2023-09-15T01:00:00+10:00",
+                            "createdTime": "2023-08-10T12:47:47-04:00",
+                            "endTime": "2023-09-15T02:00:00+10:00",
+                            "going": {
+                                "totalCount": 44,
+                                "__typename": "GoingRsvpConnection"
+                            },
+                            "isAttending": false,
+                            "isOnline": true,
+                            "eventType": "ONLINE",
+                            "status": "PAST",
+                            "series": null,
+                            "featuredEventPhoto": {
+                                "id": "515038161",
+                                "source": "https://secure.meetupstatic.com/photos/event/e/3/3/1/highres_515038161.jpeg",
+                                "__typename": "PhotoInfo"
+                            },
+                            "rsvps": {
+                                "edges": [
+                                    {
+                                        "node": {
+                                            "id": "1966614421",
+                                            "member": {
+                                                "id": "262653985",
+                                                "name": "kevinl",
+                                                "memberPhoto": {
+                                                    "id": "280888352",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/6/e/c/0/highres_280888352.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1966619143",
+                                            "member": {
+                                                "id": "313948381",
+                                                "name": "Cloud Tech",
+                                                "memberPhoto": {
+                                                    "id": "319303539",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/a/a/1/3/highres_319303539.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1966707381",
+                                            "member": {
+                                                "id": "183506602",
+                                                "name": "Steve Christolis",
+                                                "memberPhoto": {
+                                                    "id": "284121420",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/5/3/a/c/highres_284121420.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1966869953",
+                                            "member": {
+                                                "id": "129039242",
+                                                "name": "Arun Prasad",
+                                                "memberPhoto": {
+                                                    "id": "171483202",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/c/8/2/highres_171483202.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1966896210",
+                                            "member": {
+                                                "id": "12056857",
+                                                "name": "Nor Raymond",
+                                                "memberPhoto": {
+                                                    "id": "309125552",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/1/5/b/0/highres_309125552.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    }
+                                ],
+                                "__typename": "RsvpConnection"
+                            },
+                            "actions": [],
+                            "rsvpSettings": {
+                                "rsvpsClosed": false,
+                                "__typename": "RsvpOpenSettings"
+                            },
+                            "isNetworkEvent": false,
+                            "networkEvent": null,
+                            "socialLabels": [],
+                            "__typename": "Event"
+                        },
+                        "__typename": "EventEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "295512907",
+                            "title": "Virtual Summit: Generative AI and Intelligent Agents",
+                            "eventUrl": "https://www.meetup.com/sydney-ai-tech-talks/events/295512907/",
+                            "description": "Register here to receive joining link: [https://www.aicamp.ai/event/eventdetails/W2023082310](https://www.aicamp.ai/event/eventdetails/W2023082310)\n(The event has two sessions for global attendees at different timezones)\n\n**Description:**\nGen AI, LLMs, AI assistants and intelligent agents are powering next-generation customer experiences, transforming every business. But there is no AI without Data. And only the right data delivers accurate, relevant results, with the context, scale and security you need.\n\n\"I Love AI\" will unlock the power of Generative AI for you, with unique insights into the data platform and AI solutions you need, delivered by experts with real-world experience making AI a reality. This virtual event will help application architects, software developers, practitioners and CTOs learn how to:\n\n* Deliver AI outcomes with extreme accuracy and relevance\n* Build Generative AI apps with scale, governance and data security\n* Overcome the biggest obstacles keeping Gen AI from being enterprise ready\n* Deploy powerful vector search capabilities at a fraction of the cost\n* Use cutting edge innovations in the biggest, most powerful vector database\n\n**Schedule:**\nThere are two sessions for global attendees:\n\n* Session 1 (Americas/EMEA): August 23rd, 10AM PDT / 1PM EDT;\n* Session 2 (APAC/EMEA): August 24th, 10AM CEST / 1:30PM IST / 4PM SGT / 6PM AEST\n\n**Featured Speakers:**\n\n* Scott Johnston, CEO from **Docker**\n* Noel Kenehan, AI Lead from **Google**\n* Vinay Chella, Engineering Manager from **Netflix**\n* Hussein Mehanna, SVP/Head of AI/ML from **Cruise**\n* Kelly Vanee, VP of ML from **Capital One**\n* Davor Bonaci, CTO from **DataStax**\n* Martin Brodbeck, CTO from **Priceline**\n* 40+ more\n\n**RSVP and Agenda:**\n[https://www.aicamp.ai/event/eventdetails/W2023082310](https://www.aicamp.ai/event/eventdetails/W2023082310)\n\n**Community on Slack**\n\\- Event chat: chat and connect with speakers and attendees\n\\- Sharing blogs\\, events\\, job openings\\, projects collaborations\n[Join Slack](https://join.slack.com/t/aicampglobal/shared_invite/zt-1zv0s40xu-CbN_bGJfbeQfheruT0DGqw) (search and join the #virtualevents channel)",
+                            "group": {
+                                "id": "30918792",
+                                "name": "Sydney AI/ML/Data Developers Group",
+                                "__typename": "Group"
+                            },
+                            "creatorMember": {
+                                "id": "262653985",
+                                "__typename": "Member"
+                            },
+                            "eventHosts": [
+                                {
+                                    "memberId": "262653985",
+                                    "__typename": "EventHost"
+                                }
+                            ],
+                            "feeSettings": null,
+                            "venue": {
+                                "id": "26906060",
+                                "name": "Online event",
+                                "address": "",
+                                "city": "",
+                                "state": "",
+                                "country": "",
+                                "__typename": "Venue"
+                            },
+                            "dateTime": "2023-08-24T18:00:00+10:00",
+                            "createdTime": "2023-08-17T15:38:21-04:00",
+                            "endTime": "2023-08-24T21:00:00+10:00",
+                            "going": {
+                                "totalCount": 39,
+                                "__typename": "GoingRsvpConnection"
+                            },
+                            "isAttending": false,
+                            "isOnline": true,
+                            "eventType": "ONLINE",
+                            "status": "PAST",
+                            "series": null,
+                            "featuredEventPhoto": {
+                                "id": "515201177",
+                                "source": "https://secure.meetupstatic.com/photos/event/a/0/d/9/highres_515201177.jpeg",
+                                "__typename": "PhotoInfo"
+                            },
+                            "rsvps": {
+                                "edges": [
+                                    {
+                                        "node": {
+                                            "id": "1967454354",
+                                            "member": {
+                                                "id": "262653985",
+                                                "name": "kevinl",
+                                                "memberPhoto": {
+                                                    "id": "280888352",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/6/e/c/0/highres_280888352.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1967466327",
+                                            "member": {
+                                                "id": "218111863",
+                                                "name": "Allen Nugent",
+                                                "memberPhoto": {
+                                                    "id": "262542943",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/a/7/b/f/highres_262542943.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1967467465",
+                                            "member": {
+                                                "id": "196370760",
+                                                "name": "Ali Boloori",
+                                                "memberPhoto": {
+                                                    "id": "252128024",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/1/f/5/8/highres_252128024.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1967471916",
+                                            "member": {
+                                                "id": "395596652",
+                                                "name": "Mihail Dungarov",
+                                                "memberPhoto": null,
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1967477703",
+                                            "member": {
+                                                "id": "217794032",
+                                                "name": "Kurt Yang",
+                                                "memberPhoto": {
+                                                    "id": "298947262",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/6/a/7/e/highres_298947262.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    }
+                                ],
+                                "__typename": "RsvpConnection"
+                            },
+                            "actions": [],
+                            "rsvpSettings": {
+                                "rsvpsClosed": false,
+                                "__typename": "RsvpOpenSettings"
+                            },
+                            "isNetworkEvent": false,
+                            "networkEvent": null,
+                            "socialLabels": [],
+                            "__typename": "Event"
+                        },
+                        "__typename": "EventEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "294543015",
+                            "title": "Workshop: Cloud Native Threats Detection with Runtime Security",
+                            "eventUrl": "https://www.meetup.com/sydney-ai-tech-talks/events/294543015/",
+                            "description": "Register on the event website to receive joining link: [https://www.aicamp.ai/event/eventdetails/W2023072501](https://www.aicamp.ai/event/eventdetails/W2023072501)\n\n**Description:**\nParticipants of the workshop will receive a Certificate of Completion.\n\nIf you are looking to implement real time detection of unexpected behaviors, configuration changes and intrusions so you can stop attacks, then this is the workshop for you. Join this hands-on educational workshop to learn about runtime security and get up and running on Falco, the open-source standard for threat detection across Kubernetes, containers, hosts, and the cloud.\n\nThis session is for practitioners that are new to cloud-native and want to expand their knowledge of this dynamic area of security. We will introduce you to the concepts so you have the basics, but mostly you will be working on hands-on labs so you learn the tool and can implement it in your environment tomorrow.",
+                            "group": {
+                                "id": "30918792",
+                                "name": "Sydney AI/ML/Data Developers Group",
+                                "__typename": "Group"
+                            },
+                            "creatorMember": {
+                                "id": "262653985",
+                                "__typename": "Member"
+                            },
+                            "eventHosts": [
+                                {
+                                    "memberId": "262653985",
+                                    "__typename": "EventHost"
+                                }
+                            ],
+                            "feeSettings": null,
+                            "venue": {
+                                "id": "26906060",
+                                "name": "Online event",
+                                "address": "",
+                                "city": "",
+                                "state": "",
+                                "country": "",
+                                "__typename": "Venue"
+                            },
+                            "dateTime": "2023-07-25T18:00:00+10:00",
+                            "createdTime": "2023-07-01T13:48:52-04:00",
+                            "endTime": "2023-07-25T20:00:00+10:00",
+                            "going": {
+                                "totalCount": 19,
+                                "__typename": "GoingRsvpConnection"
+                            },
+                            "isAttending": false,
+                            "isOnline": true,
+                            "eventType": "ONLINE",
+                            "status": "PAST",
+                            "series": null,
+                            "featuredEventPhoto": {
+                                "id": "514079936",
+                                "source": "https://secure.meetupstatic.com/photos/event/e/a/2/0/highres_514079936.jpeg",
+                                "__typename": "PhotoInfo"
+                            },
+                            "rsvps": {
+                                "edges": [
+                                    {
+                                        "node": {
+                                            "id": "1962029532",
+                                            "member": {
+                                                "id": "262653985",
+                                                "name": "kevinl",
+                                                "memberPhoto": {
+                                                    "id": "280888352",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/6/e/c/0/highres_280888352.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1962060078",
+                                            "member": {
+                                                "id": "62961982",
+                                                "name": "Carfield Yim",
+                                                "memberPhoto": {
+                                                    "id": "73313912",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/d/2/9/8/highres_73313912.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1962065603",
+                                            "member": {
+                                                "id": "189835359",
+                                                "name": "Ashish Kamble",
+                                                "memberPhoto": {
+                                                    "id": "247835269",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/8/9/c/5/highres_247835269.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1962111691",
+                                            "member": {
+                                                "id": "395441110",
+                                                "name": "JasonC",
+                                                "memberPhoto": {
+                                                    "id": "315738326",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/4/7/9/6/highres_315738326.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1962144955",
+                                            "member": {
+                                                "id": "395596652",
+                                                "name": "Mihail Dungarov",
+                                                "memberPhoto": null,
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    }
+                                ],
+                                "__typename": "RsvpConnection"
+                            },
+                            "actions": [],
+                            "rsvpSettings": {
+                                "rsvpsClosed": false,
+                                "__typename": "RsvpOpenSettings"
+                            },
+                            "isNetworkEvent": false,
+                            "networkEvent": null,
+                            "socialLabels": [],
+                            "__typename": "Event"
+                        },
+                        "__typename": "EventEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "294222038",
+                            "title": "Kubernetes for Data Scientists",
+                            "eventUrl": "https://www.meetup.com/sydney-ai-tech-talks/events/294222038/",
+                            "description": "Register on the event website to receive joining link: [https://www.aicamp.ai/event/eventdetails/W2023062816](https://www.aicamp.ai/event/eventdetails/W2023062816)\n\n**Description:**\nData scientists and machine learning engineers shouldn’t necessarily need to know too much about Kubernetes (K8s), yet many are interested and it can be a differentiator in the job market. So we’re here to help! This livestream will be a gentle introduction to K8s for data scientists and MLEs who want to take their production DS/ML chops to the next level.\n\nBryan Galvin, who works on ML infrastructure at Best Egg, and Shri Javadekar, A K8s insider and engineer at Outerbounds, join Hugo Bowne-Anderson to introduce K8s to those who want to know a bit more. In this livestream, you’ll learn:\n\n* \\- What K8s is and what it isn’t\\, why should you care;\n* \\- What a typical journey in moving from statistics\\, data analysis and data science to infrastructure looks like;\n* \\- The differences between K8s\\, Docker\\, and other moving parts \\(such as Terraform\\);\n* \\- How to understand the lifecycle of a K8s project;\n* \\- What the core concepts of deploying K8s workloads are\n\nWe’ll also do some live coding and show you how to take code that you’ve prototyped locally and :\n\n* Deploy it to a K8s cluster;\n* Scale the workload;\n* Schedule it!\n*\n\nContact us to submit topics and/or sponsor the meetup on venue/food/swags/prizes. [https://forms.gle/JkMt91CZRtoJBSFUA](https://forms.gle/JkMt91CZRtoJBSFUA)",
+                            "group": {
+                                "id": "30918792",
+                                "name": "Sydney AI/ML/Data Developers Group",
+                                "__typename": "Group"
+                            },
+                            "creatorMember": {
+                                "id": "262653985",
+                                "__typename": "Member"
+                            },
+                            "eventHosts": [
+                                {
+                                    "memberId": "262653985",
+                                    "__typename": "EventHost"
+                                }
+                            ],
+                            "feeSettings": null,
+                            "venue": {
+                                "id": "26906060",
+                                "name": "Online event",
+                                "address": "",
+                                "city": "",
+                                "state": "",
+                                "country": "",
+                                "__typename": "Venue"
+                            },
+                            "dateTime": "2023-06-29T09:30:00+10:00",
+                            "createdTime": "2023-06-16T02:17:22-04:00",
+                            "endTime": "2023-06-29T10:30:00+10:00",
+                            "going": {
+                                "totalCount": 46,
+                                "__typename": "GoingRsvpConnection"
+                            },
+                            "isAttending": false,
+                            "isOnline": true,
+                            "eventType": "ONLINE",
+                            "status": "PAST",
+                            "series": null,
+                            "featuredEventPhoto": {
+                                "id": "513704989",
+                                "source": "https://secure.meetupstatic.com/photos/event/a/f/b/d/highres_513704989.jpeg",
+                                "__typename": "PhotoInfo"
+                            },
+                            "rsvps": {
+                                "edges": [
+                                    {
+                                        "node": {
+                                            "id": "1960268331",
+                                            "member": {
+                                                "id": "262653985",
+                                                "name": "kevinl",
+                                                "memberPhoto": {
+                                                    "id": "280888352",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/6/e/c/0/highres_280888352.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1960269124",
+                                            "member": {
+                                                "id": "373564038",
+                                                "name": "Pablo",
+                                                "memberPhoto": {
+                                                    "id": "315588715",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/b/e/4/b/highres_315588715.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1960270101",
+                                            "member": {
+                                                "id": "330859439",
+                                                "name": "Amir",
+                                                "memberPhoto": {
+                                                    "id": "304605841",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/b/3/1/1/highres_304605841.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1960270246",
+                                            "member": {
+                                                "id": "276242573",
+                                                "name": "Greg",
+                                                "memberPhoto": {
+                                                    "id": "285885487",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/b/1/a/f/highres_285885487.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1960270619",
+                                            "member": {
+                                                "id": "182987324",
+                                                "name": "Naeem",
+                                                "memberPhoto": {
+                                                    "id": "272359084",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/4/a/8/c/highres_272359084.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    }
+                                ],
+                                "__typename": "RsvpConnection"
+                            },
+                            "actions": [],
+                            "rsvpSettings": {
+                                "rsvpsClosed": false,
+                                "__typename": "RsvpOpenSettings"
+                            },
+                            "isNetworkEvent": false,
+                            "networkEvent": null,
+                            "socialLabels": [],
+                            "__typename": "Event"
+                        },
+                        "__typename": "EventEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "293478387",
+                            "title": "ML Monitoring: Data Drift, Quality, Bias and Explainability (with certificate)",
+                            "eventUrl": "https://www.meetup.com/sydney-ai-tech-talks/events/293478387/",
+                            "description": "Register on the event website to receive joining link: [https://www.aicamp.ai/event/eventdetails/W2023052415](https://www.aicamp.ai/event/eventdetails/W2023052415)\n\nYou'll receive a certificate for completing workshop.\n\n**Description:**\nIf you want to build reliable pipelines, trustworthy data, and responsible AI applications, you need to validate and monitor your data & ML models!\n\nIn this workshop we’ll cover how to ensure model reliability and performance to implement your own AI observability solution from start to finish.\n\n\\#\\#\\# This workshop will cover:\n\n* Detecting data drift\n* Measuring model drift\n* Monitoring model performance\n* Data quality validation\n* Measuring Bias & Fairness\n* Model explainability\n\n\\#\\#\\# What you’ll need:\n\n* A modern web browser\n* A Google account (for saving a Google Colab)\n* Sign up free a free WhyLabs account ([https://whylabs.ai/free](https://whylabs.ai/free))\n\n\\#\\#\\# Who should attend:\nAnyone interested in AI Observability, Model monitoring, MLOps, and DataOps! This workshop is designed to be approachable for most skill levels. Familiarity with machine learning and Python will be useful, but it's not required.\n\nBy the end of this workshop, you’ll be able to implement data and AI observability into your own pipelines (Kafka, Airflow, Flyte, etc) and ML applications to catch deviations and biases in data or ML model behavior.\n\n**Community on Slack**\n\\- Event chat: chat and connect with speakers and attendees\n\\- Sharing blogs\\, events\\, job openings\\, projects collaborations\n[Join Slack](http://bit.ly/3GUg4PN) (search and join the #virtualevents channel)\n\nContact us to submit topics and/or sponsor the meetup on venue/food/swags/prizes. [https://forms.gle/JkMt91CZRtoJBSFUA](https://forms.gle/JkMt91CZRtoJBSFUA)",
+                            "group": {
+                                "id": "30918792",
+                                "name": "Sydney AI/ML/Data Developers Group",
+                                "__typename": "Group"
+                            },
+                            "creatorMember": {
+                                "id": "262653985",
+                                "__typename": "Member"
+                            },
+                            "eventHosts": [
+                                {
+                                    "memberId": "262653985",
+                                    "__typename": "EventHost"
+                                }
+                            ],
+                            "feeSettings": null,
+                            "venue": {
+                                "id": "26906060",
+                                "name": "Online event",
+                                "address": "",
+                                "city": "",
+                                "state": "",
+                                "country": "",
+                                "__typename": "Venue"
+                            },
+                            "dateTime": "2023-05-25T08:00:00+10:00",
+                            "createdTime": "2023-05-11T18:48:34-04:00",
+                            "endTime": "2023-05-25T09:00:00+10:00",
+                            "going": {
+                                "totalCount": 24,
+                                "__typename": "GoingRsvpConnection"
+                            },
+                            "isAttending": false,
+                            "isOnline": true,
+                            "eventType": "ONLINE",
+                            "status": "PAST",
+                            "series": null,
+                            "featuredEventPhoto": {
+                                "id": "512789338",
+                                "source": "https://secure.meetupstatic.com/photos/event/7/2/9/a/highres_512789338.jpeg",
+                                "__typename": "PhotoInfo"
+                            },
+                            "rsvps": {
+                                "edges": [
+                                    {
+                                        "node": {
+                                            "id": "1956170734",
+                                            "member": {
+                                                "id": "262653985",
+                                                "name": "kevinl",
+                                                "memberPhoto": {
+                                                    "id": "280888352",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/6/e/c/0/highres_280888352.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1956173392",
+                                            "member": {
+                                                "id": "381926986",
+                                                "name": "Pellerex",
+                                                "memberPhoto": {
+                                                    "id": "314130547",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/7/7/5/3/highres_314130547.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1956173581",
+                                            "member": {
+                                                "id": "335626004",
+                                                "name": "MD POROM",
+                                                "memberPhoto": {
+                                                    "id": "306488264",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/2/0/4/8/highres_306488264.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1956176188",
+                                            "member": {
+                                                "id": "60418042",
+                                                "name": "Michael Leung",
+                                                "memberPhoto": {
+                                                    "id": "237657972",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/e/2/7/4/highres_237657972.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1956176393",
+                                            "member": {
+                                                "id": "389567376",
+                                                "name": "Bowen Bai",
+                                                "memberPhoto": null,
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    }
+                                ],
+                                "__typename": "RsvpConnection"
+                            },
+                            "actions": [],
+                            "rsvpSettings": {
+                                "rsvpsClosed": false,
+                                "__typename": "RsvpOpenSettings"
+                            },
+                            "isNetworkEvent": false,
+                            "networkEvent": null,
+                            "socialLabels": [],
+                            "__typename": "Event"
+                        },
+                        "__typename": "EventEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "293038498",
+                            "title": "LLMs: Beyond Proofs of Concept",
+                            "eventUrl": "https://www.meetup.com/sydney-ai-tech-talks/events/293038498/",
+                            "description": "Register on the event website to receive joining link: [https://www.aicamp.ai/event/eventdetails/W2023050400](https://www.aicamp.ai/event/eventdetails/W2023050400)\nIf you can't make the live event, still register to receive the recording.\n\n**Description:**\nFederico Bianchi is a post-doctoral researcher at Stanford University, with experience in building large Vision-Language models (e.g., FashionCLIP), model understanding (e.g., Limitations of Vision-Language Models) and fairness and bias (e.g., Bias in Text-to-Image, EvalRS).\n\nIn this fireside chat, Federico joins Hugo Bowne-Anderson, Outerbounds’ Head of Developer Relations, to discuss where the field of large language models is today and what we can expect to see in terms of business value, once the hype dies down.\n\nAfter attending, you’ll have an understanding of:\n\n* What large language models are and are not currently capable of;\n* Ways to get started with LLMs today and how to stay up to date;\n* How LLMs can be used to build sustainable business value and defensible business moats;\n* How to think about productionizing LLMs and incorporating them into existing software stacks;\nEthics and the trade-off between the usefulness of language models and the associated risks;\n* Privacy and risks of content regurgitation.\n*",
+                            "group": {
+                                "id": "30918792",
+                                "name": "Sydney AI/ML/Data Developers Group",
+                                "__typename": "Group"
+                            },
+                            "creatorMember": {
+                                "id": "262653985",
+                                "__typename": "Member"
+                            },
+                            "eventHosts": [
+                                {
+                                    "memberId": "262653985",
+                                    "__typename": "EventHost"
+                                }
+                            ],
+                            "feeSettings": null,
+                            "venue": {
+                                "id": "26906060",
+                                "name": "Online event",
+                                "address": "",
+                                "city": "",
+                                "state": "",
+                                "country": "",
+                                "__typename": "Venue"
+                            },
+                            "dateTime": "2023-05-04T17:00:00+10:00",
+                            "createdTime": "2023-04-21T01:51:07-04:00",
+                            "endTime": "2023-05-04T18:00:00+10:00",
+                            "going": {
+                                "totalCount": 32,
+                                "__typename": "GoingRsvpConnection"
+                            },
+                            "isAttending": false,
+                            "isOnline": true,
+                            "eventType": "ONLINE",
+                            "status": "PAST",
+                            "series": null,
+                            "featuredEventPhoto": {
+                                "id": "512249788",
+                                "source": "https://secure.meetupstatic.com/photos/event/7/4/5/c/highres_512249788.jpeg",
+                                "__typename": "PhotoInfo"
+                            },
+                            "rsvps": {
+                                "edges": [
+                                    {
+                                        "node": {
+                                            "id": "1953619265",
+                                            "member": {
+                                                "id": "262653985",
+                                                "name": "kevinl",
+                                                "memberPhoto": {
+                                                    "id": "280888352",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/6/e/c/0/highres_280888352.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1953623345",
+                                            "member": {
+                                                "id": "50739032",
+                                                "name": "Candace Wong",
+                                                "memberPhoto": {
+                                                    "id": "145149232",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/2/4/1/0/highres_145149232.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1953625202",
+                                            "member": {
+                                                "id": "296086096",
+                                                "name": "Thomas",
+                                                "memberPhoto": null,
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1953633811",
+                                            "member": {
+                                                "id": "259055994",
+                                                "name": "Miguel Costa",
+                                                "memberPhoto": {
+                                                    "id": "279768804",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/b/e/a/4/highres_279768804.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1953639901",
+                                            "member": {
+                                                "id": "39080342",
+                                                "name": "Navan Tirupathi",
+                                                "memberPhoto": {
+                                                    "id": "128173002",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/3/2/c/a/highres_128173002.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    }
+                                ],
+                                "__typename": "RsvpConnection"
+                            },
+                            "actions": [],
+                            "rsvpSettings": {
+                                "rsvpsClosed": false,
+                                "__typename": "RsvpOpenSettings"
+                            },
+                            "isNetworkEvent": false,
+                            "networkEvent": null,
+                            "socialLabels": [],
+                            "__typename": "Event"
+                        },
+                        "__typename": "EventEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "291719089",
+                            "title": "NLP - From Prototype to Production, LLM/ChatGPT",
+                            "eventUrl": "https://www.meetup.com/sydney-ai-tech-talks/events/291719089/",
+                            "description": "Register on the event website to receive joining link: [https://www.aicamp.ai/event/eventdetails/W2023022402](https://www.aicamp.ai/event/eventdetails/W2023022402)\n\n**Description:**\nWhat NLP in production actually looks like, including patterns, trends, challenges, use cases, and more.\n\nInes Montani is a software developer working on AI and NLP technologies. She is the co-founder and CEO of Explosion, where they make spaCy, one of the leading open-source libraries for Natural Language Processing in Python, and Prodigy, a modern annotation tool for creating training data for machine learning models.\n\nIn this fireside chat, Ines joins Hugo Bowne-Anderson, Outerbounds’ Head of Developer Relations, to discuss what NLP in production actually looks like, including patterns, trends, challenges, use cases, and more.\n\nAfter attending, you'll know:\n\n* What NLP in production actually means;\n* Trends and patterns in NLP use cases across industries (spaCy is used across finance, legal, medical, traditional manufacturing, e-commerce, customer service, media, energy, logistics, transport, and print media!);\n* What skills data scientists and ML engineers need to build end-to-end NLP systems;\n* What all the hype around large language models is, such as GPT-3, and how they can deliver real value in the world of NLP.\n*",
+                            "group": {
+                                "id": "30918792",
+                                "name": "Sydney AI/ML/Data Developers Group",
+                                "__typename": "Group"
+                            },
+                            "creatorMember": {
+                                "id": "262653985",
+                                "__typename": "Member"
+                            },
+                            "eventHosts": [
+                                {
+                                    "memberId": "262653985",
+                                    "__typename": "EventHost"
+                                }
+                            ],
+                            "feeSettings": null,
+                            "venue": {
+                                "id": "26906060",
+                                "name": "Online event",
+                                "address": "",
+                                "city": "",
+                                "state": "",
+                                "country": "",
+                                "__typename": "Venue"
+                            },
+                            "dateTime": "2023-02-24T20:30:00+11:00",
+                            "createdTime": "2023-02-19T13:32:24-05:00",
+                            "endTime": "2023-02-24T21:30:00+11:00",
+                            "going": {
+                                "totalCount": 33,
+                                "__typename": "GoingRsvpConnection"
+                            },
+                            "isAttending": false,
+                            "isOnline": true,
+                            "eventType": "ONLINE",
+                            "status": "PAST",
+                            "series": null,
+                            "featuredEventPhoto": {
+                                "id": "510753552",
+                                "source": "https://secure.meetupstatic.com/photos/event/8/3/1/0/highres_510753552.jpeg",
+                                "__typename": "PhotoInfo"
+                            },
+                            "rsvps": {
+                                "edges": [
+                                    {
+                                        "node": {
+                                            "id": "1945975000",
+                                            "member": {
+                                                "id": "262653985",
+                                                "name": "kevinl",
+                                                "memberPhoto": {
+                                                    "id": "280888352",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/6/e/c/0/highres_280888352.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1945978404",
+                                            "member": {
+                                                "id": "382502126",
+                                                "name": "Mohammad Waseq-ul Islam",
+                                                "memberPhoto": null,
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1945986109",
+                                            "member": {
+                                                "id": "183506602",
+                                                "name": "Steve Christolis",
+                                                "memberPhoto": {
+                                                    "id": "284121420",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/5/3/a/c/highres_284121420.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1945986955",
+                                            "member": {
+                                                "id": "304998521",
+                                                "name": "Julian Otto",
+                                                "memberPhoto": {
+                                                    "id": "300687062",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/6/9/b/6/highres_300687062.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1945990169",
+                                            "member": {
+                                                "id": "62961982",
+                                                "name": "Carfield Yim",
+                                                "memberPhoto": {
+                                                    "id": "73313912",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/d/2/9/8/highres_73313912.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    }
+                                ],
+                                "__typename": "RsvpConnection"
+                            },
+                            "actions": [],
+                            "rsvpSettings": {
+                                "rsvpsClosed": false,
+                                "__typename": "RsvpOpenSettings"
+                            },
+                            "isNetworkEvent": false,
+                            "networkEvent": null,
+                            "socialLabels": [],
+                            "__typename": "Event"
+                        },
+                        "__typename": "EventEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "291080003",
+                            "title": "Fraud Detection with Graph Features and Graph Neural Networks",
+                            "eventUrl": "https://www.meetup.com/sydney-ai-tech-talks/events/291080003/",
+                            "description": "Register here to receive zoom link: [https://www.aicamp.ai/event/eventdetails/W2023013112](https://www.aicamp.ai/event/eventdetails/W2023013112)\n\nWhy do we need Graph Features and Graph Neural Networks for Fraud Detection? See some reasons below:\n\\- Class Imbalance\\, Label Scarcity & Fidelity \\(Fraud cases are rare events\\)\n\\- Fraud Camouflage \\- handle context & feature inconsistency \\(i\\.e\\. fraudsters connecting to regular entities\\)\n\\- Investigation and Exploration \\(visual way to connect the dots\\)\n\\- Anomaly Detection \\- handle point\\, structural and contextual outliers\n\\- Graph Embeddings \\- combined with NLP\\, could be used for scalable fuzzy search and entity resolution\n\\- Explainability & fairness \\- adding the context and structure for interpretation\\, rebalancing the data to remove bias\\.\nThat is why Facebook, Amazon, Tencent, Alibaba and eBay are using Graph for Fraud Detection.",
+                            "group": {
+                                "id": "30918792",
+                                "name": "Sydney AI/ML/Data Developers Group",
+                                "__typename": "Group"
+                            },
+                            "creatorMember": {
+                                "id": "262653985",
+                                "__typename": "Member"
+                            },
+                            "eventHosts": [
+                                {
+                                    "memberId": "262653985",
+                                    "__typename": "EventHost"
+                                }
+                            ],
+                            "feeSettings": null,
+                            "venue": {
+                                "id": "26906060",
+                                "name": "Online event",
+                                "address": "",
+                                "city": "",
+                                "state": "",
+                                "country": "",
+                                "__typename": "Venue"
+                            },
+                            "dateTime": "2023-02-01T07:00:00+11:00",
+                            "createdTime": "2023-01-20T17:30:12-05:00",
+                            "endTime": "2023-02-01T09:00:00+11:00",
+                            "going": {
+                                "totalCount": 17,
+                                "__typename": "GoingRsvpConnection"
+                            },
+                            "isAttending": false,
+                            "isOnline": true,
+                            "eventType": "ONLINE",
+                            "status": "PAST",
+                            "series": null,
+                            "featuredEventPhoto": {
+                                "id": "503887066",
+                                "source": "https://secure.meetupstatic.com/photos/event/1/b/9/a/highres_503887066.jpeg",
+                                "__typename": "PhotoInfo"
+                            },
+                            "rsvps": {
+                                "edges": [
+                                    {
+                                        "node": {
+                                            "id": "1942184896",
+                                            "member": {
+                                                "id": "262653985",
+                                                "name": "kevinl",
+                                                "memberPhoto": {
+                                                    "id": "280888352",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/6/e/c/0/highres_280888352.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1942185997",
+                                            "member": {
+                                                "id": "23873352",
+                                                "name": "Ken McNamara",
+                                                "memberPhoto": {
+                                                    "id": "252187095",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/1/b/b/7/highres_252187095.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1942186602",
+                                            "member": {
+                                                "id": "346932399",
+                                                "name": "Ali Ghotbi",
+                                                "memberPhoto": {
+                                                    "id": "308246581",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/6/7/d/5/highres_308246581.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1942241896",
+                                            "member": {
+                                                "id": "255162120",
+                                                "name": "Helena",
+                                                "memberPhoto": {
+                                                    "id": "280442491",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/9/b/b/highres_280442491.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1942325253",
+                                            "member": {
+                                                "id": "193338881",
+                                                "name": "Chris Cook",
+                                                "memberPhoto": {
+                                                    "id": "318300179",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/b/3/highres_318300179.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    }
+                                ],
+                                "__typename": "RsvpConnection"
+                            },
+                            "actions": [],
+                            "rsvpSettings": {
+                                "rsvpsClosed": false,
+                                "__typename": "RsvpOpenSettings"
+                            },
+                            "isNetworkEvent": false,
+                            "networkEvent": null,
+                            "socialLabels": [],
+                            "__typename": "Event"
+                        },
+                        "__typename": "EventEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "290069629",
+                            "title": "ML Monthly Meetup: AutoML and Generative AI",
+                            "eventUrl": "https://www.meetup.com/sydney-ai-tech-talks/events/290069629/",
+                            "description": "This is In-person + virtual event, please register on the event website to receive joining link: [https://www.aicamp.ai/event/eventdetails/W2022121518](https://www.aicamp.ai/event/eventdetails/W2022121518)\n\n**Agenda:**\n\\* 6:00pm\\~6:30pm: Checkin, food and networking (In-person)\n\\* 6:30pm\\~8:00pm: Tech talks (In-person + virtual)\n\\* 8:00pm\\~8:30pm: Lucky Draw & Networking (In-person)\n\n**Tech Talk 1: FLAML: A Fast Library for AutoML & Tuning**\n**Abstract:** Machine Learning is a powerful and effective tool, but it takes tremendous effort to tune many choices such as hyperparameters to the problem at hand. This tuning process can be both difficult and costly. This talk will introduce an easy-to-use open-source library (https://github.com/microsoft/FLAML) built based on new cost-effective hyperparameter optimization and AutoML technologies from Microsoft Research. Both ML beginners and experts can benefit from this talk. Python or .NET programmers will learn how to use this lightweight library and related products to find accurate machine learning models automatically, efficiently, and economically.\n**Speaker:** Chi Wang, Principal Researcher, Microsoft Research\n\n**Tech Talk 2: Creating Generative Sitcom with Azure and OpenAI**\n**Abstract:** The world of generative media is exploding. Pretty soon, we're going to be watching television shows, going to movies, and listening to music entirely generated by machines. Come learn about how Mismatch Media created Nothing, Forever, the world's first always-on, interactive television show generated through a combination of cloud services, machine learning techniques, and more. We'll do a technical deep dive into the architecture behind Nothing, Forever, the emerging state of generative media, and why Mismatch Media chose Azure as their cloud of choice.\n**Speaker:** Skyler Hartle, Microsoft and co-founder of Mismatch Media",
+                            "group": {
+                                "id": "30918792",
+                                "name": "Sydney AI/ML/Data Developers Group",
+                                "__typename": "Group"
+                            },
+                            "creatorMember": {
+                                "id": "262653985",
+                                "__typename": "Member"
+                            },
+                            "eventHosts": [
+                                {
+                                    "memberId": "262653985",
+                                    "__typename": "EventHost"
+                                }
+                            ],
+                            "feeSettings": null,
+                            "venue": {
+                                "id": "26906060",
+                                "name": "Online event",
+                                "address": "",
+                                "city": "",
+                                "state": "",
+                                "country": "",
+                                "__typename": "Venue"
+                            },
+                            "dateTime": "2022-12-16T13:30:00+11:00",
+                            "createdTime": "2022-11-30T18:58:03-05:00",
+                            "endTime": "2022-12-16T15:30:00+11:00",
+                            "going": {
+                                "totalCount": 16,
+                                "__typename": "GoingRsvpConnection"
+                            },
+                            "isAttending": false,
+                            "isOnline": true,
+                            "eventType": "ONLINE",
+                            "status": "PAST",
+                            "series": null,
+                            "featuredEventPhoto": {
+                                "id": "508934580",
+                                "source": "https://secure.meetupstatic.com/photos/event/3/8/f/4/highres_508934580.jpeg",
+                                "__typename": "PhotoInfo"
+                            },
+                            "rsvps": {
+                                "edges": [
+                                    {
+                                        "node": {
+                                            "id": "1936768994",
+                                            "member": {
+                                                "id": "262653985",
+                                                "name": "kevinl",
+                                                "memberPhoto": {
+                                                    "id": "280888352",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/6/e/c/0/highres_280888352.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1936770108",
+                                            "member": {
+                                                "id": "372996807",
+                                                "name": "Bruno Chauvet",
+                                                "memberPhoto": {
+                                                    "id": "312905632",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/1/6/0/0/highres_312905632.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1936808434",
+                                            "member": {
+                                                "id": "183506602",
+                                                "name": "Steve Christolis",
+                                                "memberPhoto": {
+                                                    "id": "284121420",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/5/3/a/c/highres_284121420.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1936810802",
+                                            "member": {
+                                                "id": "50505722",
+                                                "name": "Efren Katague",
+                                                "memberPhoto": {
+                                                    "id": "60003652",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/e/4/4/highres_60003652.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1937006109",
+                                            "member": {
+                                                "id": "349526914",
+                                                "name": "Terry",
+                                                "memberPhoto": {
+                                                    "id": "308855366",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/8/a/2/6/highres_308855366.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    }
+                                ],
+                                "__typename": "RsvpConnection"
+                            },
+                            "actions": [],
+                            "rsvpSettings": {
+                                "rsvpsClosed": false,
+                                "__typename": "RsvpOpenSettings"
+                            },
+                            "isNetworkEvent": false,
+                            "networkEvent": null,
+                            "socialLabels": [],
+                            "__typename": "Event"
+                        },
+                        "__typename": "EventEdge"
+                    }
+                ],
+                "__typename": "GroupEventConnection"
+            },
+            "__typename": "Group"
+        }
+    }
+}
